@@ -1,0 +1,8 @@
+path: D:/april/Trafic/dataset_custom
+
+train: images/train
+val: images/val
+
+nc: 2
+
+names: ['ambulance','line_cross']

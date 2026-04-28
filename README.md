@@ -1,2 +1,1 @@
-# traffic
-traffic management system
+# Smart Traffic AI Project
