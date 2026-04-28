@@ -23,7 +23,7 @@ from ultralytics import YOLO
 # ──────────────────────────────────────────────────────────────
 TESSERACT_PATH     = "C:/Program Files/Tesseract-OCR/tesseract.exe"   # ← RPi-க்கான default Tesseract path
 EMAIL_SENDER       = "sekaran2405@gmail.com"
-EMAIL_PASSWORD     = "wrrf awsj dlkm smrn"
+EMAIL_PASSWORD     = "yuut tghj rffd ikhgt"
 EXCEL_DB_PATH      = "vehicle_data.xlsx"
 LOG_CSV_PATH       = "violation_log.csv"
 VEHICLE_MODEL_PATH = "yolov8n.pt"
